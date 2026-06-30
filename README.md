@@ -40,7 +40,7 @@ The goal of this project is to help detect suspicious transactions and support d
 
 ## Dashboard Preview
 
-![Bank Fraud Dashboard](Images/dashboard_screenshot.png)
+![Bank Fraud Dashboard](![Bank Fraud Dashboard](Powerbi_Dashboard_Image.png)
 
 ## Key Insights
 
@@ -49,11 +49,6 @@ The goal of this project is to help detect suspicious transactions and support d
 - Fraudulent transactions represent a smaller portion of total transactions
 - Credit Card and Debit Card transactions are among the most commonly used payment methods
 - Fraud patterns can be analyzed across countries, merchant categories, and device types
-
-## Project File
-
-Power BI file download link:
-[Bank Fraud Dashboard PBIX]([Paste-your-Google-Drive-link-here](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=drive_link))
 
 ## Project Structure
 
@@ -77,6 +72,12 @@ Bank_Fraud_Dashboard/
 2. Open Dashboard.pbix in Power BI Desktop
 3. Refresh data if required
 4. Explore dashboard insights using filters and visuals
+
+
+## Project File
+
+Power BI file download link:
+[Bank Fraud Dashboard PBIX](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=drive_link)
 
 ## Future Improvements
 
