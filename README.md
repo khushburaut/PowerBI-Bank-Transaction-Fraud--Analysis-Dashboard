@@ -77,7 +77,7 @@ Bank_Fraud_Dashboard/
 ## Project File
 
 Power BI file download link:
-[[Bank Fraud Dashboard PBIX](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=drive_link)](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=sharing)
+[[Download Power BI Dashboard](PASTE_GOOGLE_DRIVE_LINK_HERE)](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=drive_link)
 
 ## Future Improvements
 
