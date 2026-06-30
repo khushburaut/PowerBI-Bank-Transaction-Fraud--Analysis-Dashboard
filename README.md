@@ -50,6 +50,11 @@ The goal of this project is to help detect suspicious transactions and support d
 - Credit Card and Debit Card transactions are among the most commonly used payment methods
 - Fraud patterns can be analyzed across countries, merchant categories, and device types
 
+## Project File
+
+Power BI file download link:
+[Bank Fraud Dashboard PBIX]([Paste-your-Google-Drive-link-here](https://drive.google.com/file/d/1x8gCSCv2v4he1tQIaWB639km6RKvITcS/view?usp=drive_link))
+
 ## Project Structure
 
 Bank_Fraud_Dashboard/
